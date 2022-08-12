@@ -1,14 +1,14 @@
-body{
+body {
     font-size: 16px;
 }
-h1{
+h1 {
     font-size: 65px;
     font-family: sans-serif;
     color: orange;
     text-align: center;
     text-decoration: underline;
 }
-ul{
+ul {
     background-color: rgb(147, 255, 219);
     font-style: italic;
     line-height: 100px;
@@ -21,7 +21,7 @@ p{
 .favorite-color {
     background-color: green;
 }
-.yellow{
+.yellow {
     background-color: yellow;
 }
 .red {
